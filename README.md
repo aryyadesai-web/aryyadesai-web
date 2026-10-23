@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Arya Desai!
 
-<!--
-**aryyadesai-web/aryyadesai-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 CSE Student | 🌐 Web Development Enthusiast
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Computer Science Engineering student at SMVITM
+- 🌱 Learning and improving my development skills
+- 💡 Interested in Web Development and Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,vscode" alt="Python, Java, HTML, CSS, JavaScript, React and VS Code" />
+</p>
+
+
+## 🔗 Connect With Me
+- GitHub: [@aryyadesai-web](https://github.com/aryyadesai-web)
+
+---
+
+*Always learning, always building!* 
