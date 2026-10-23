@@ -1,22 +1,19 @@
-# 👋 Hi, I'm Arya Desai!
+# Hi, I'm Arya Desai
 
-### 💻 CSE Student | 🌐 Web Development Enthusiast
+Computer Science and Engineering Student at SMVITM
 
-## 🚀 About Me
-- 🎓 Computer Science Engineering student at SMVITM
-- 🌱 Learning and improving my development skills
-- 💡 Interested in Web Development and Artificial Intelligence
+### About Me
+- Interested in software development and emerging technologies
+- Learning web development and exploring Agentic AI
+- Interested in building AI agents and intelligent applications
+- Focused on improving my programming and problem-solving skills
 
-## 🛠️ Tech Stack
+### Languages and Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,vscode" alt="Python, Java, HTML, CSS, JavaScript, React and VS Code" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,react,unity,vscode" alt="Python, Java, HTML, CSS, React, Unity and VS Code" />
 </p>
 
 
-## 🔗 Connect With Me
-- GitHub: [@aryyadesai-web](https://github.com/aryyadesai-web)
-
----
-
-*Always learning, always building!* 
+### Connect
+- GitHub: [aryyadesai-web](https://github.com/aryyadesai-web)
